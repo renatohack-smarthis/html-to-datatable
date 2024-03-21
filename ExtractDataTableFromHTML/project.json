@@ -8,7 +8,7 @@
     "UiPath.Mail.Activities": "[1.15.2]",
     "UiPath.System.Activities": "[22.4.4]",
     "UiPath.UIAutomation.Activities": "[22.4.7]",
-    "UiPathTeam.ExtractDataTablesFromHTML.Activities": "[1.0.4]"
+    "UiPathTeam.ExtractDataTablesFromHTML.Activities": "[2.0.2]"
   },
   "webServices": [],
   "entitiesStores": [],

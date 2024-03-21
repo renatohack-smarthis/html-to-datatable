@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YHXOd5udKMn878LgqhwgDDUR81E5A88NlUBlih7tJbf6Q/t80lw33BGGZilzaj8p1ttgltK8H2bxGSd+O7Se8g==",
-  "success": false,
-  "projectFilePath": "D:\\OneDrive - SMARTHIS CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO LTDA\\01. TRABALHO\\TEMPLATES\\ExtractDataTableFromHTML\\.local\\",
+  "dgSpecHash": "UhIoUyn6BExznCZ8L3XCYzIEPiAnMYB/JsYEfOdoNHkwgdI3pMpGmXktljZ6UAKKR1J1QcjUZ9i6iw/O2e74mg==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\smarthis\\html-to-datatable\\ExtractDataTableFromHTML\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Renat\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Renat\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
@@ -13,7 +13,7 @@
     "C:\\Users\\Renat\\.nuget\\packages\\google.apis.core\\1.55.0\\google.apis.core.1.55.0.nupkg.sha512",
     "C:\\Users\\Renat\\.nuget\\packages\\google.apis.gmail.v1\\1.55.0.2510\\google.apis.gmail.v1.1.55.0.2510.nupkg.sha512",
     "C:\\Users\\Renat\\.nuget\\packages\\google.apis.peopleservice.v1\\1.55.0.2567\\google.apis.peopleservice.v1.1.55.0.2567.nupkg.sha512",
-    "C:\\Users\\Renat\\.nuget\\packages\\htmlagilitypack\\1.11.38\\htmlagilitypack.1.11.38.nupkg.sha512",
+    "C:\\Users\\Renat\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512",
     "C:\\Users\\Renat\\.nuget\\packages\\mailkit\\3.1.1\\mailkit.3.1.1.nupkg.sha512",
     "C:\\Users\\Renat\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\microsoft.aspnet.signalr.client.2.4.0.nupkg.sha512",
     "C:\\Users\\Renat\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\microsoft.aspnetcore.connections.abstractions.3.1.6.nupkg.sha512",
@@ -102,14 +102,16 @@
     "C:\\Users\\Renat\\.nuget\\packages\\uipath.system.activities\\22.4.4\\uipath.system.activities.22.4.4.nupkg.sha512",
     "C:\\Users\\Renat\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\uipath.telemetry.client.1.5.3.nupkg.sha512",
     "C:\\Users\\Renat\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\uipath.uiautomation.activities.22.4.7.nupkg.sha512",
-    "C:\\Users\\Renat\\.nuget\\packages\\uipath.vision\\3.3.0\\uipath.vision.3.3.0.nupkg.sha512"
+    "C:\\Users\\Renat\\.nuget\\packages\\uipath.vision\\3.3.0\\uipath.vision.3.3.0.nupkg.sha512",
+    "C:\\Users\\Renat\\.nuget\\packages\\uipathteam.extractdatatablesfromhtml.activities\\2.0.2\\uipathteam.extractdatatablesfromhtml.activities.2.0.2.nupkg.sha512"
   ],
   "logs": [
     {
-      "code": "NU1102",
-      "level": "Error",
-      "filePath": "D:\\OneDrive - SMARTHIS CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO LTDA\\01. TRABALHO\\TEMPLATES\\ExtractDataTableFromHTML\\.local",
-      "message": "Unable to find package UiPathTeam.ExtractDataTablesFromHTML.Activities with version (= 1.0.4)\r\n  - Found 2 version(s) in https://gallery.uipath.com/api/v3/index.json [ Nearest version: 2.0.2 ]\r\n  - Found 0 version(s) in C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\r\n  - Found 0 version(s) in D:\\Program Files\\UiPath\\Studio\\Packages\r\n  - Found 0 version(s) in https://api.nuget.org/v3/index.json\r\n  - Found 0 version(s) in https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json\r\n  - Found 0 version(s) in https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json",
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "filePath": "D:\\Repos\\smarthis\\html-to-datatable\\ExtractDataTableFromHTML\\.local",
+      "message": "ExtractDataTableFromHTML depends on UiPathTeam.ExtractDataTablesFromHTML.Activities (>= 1.0.4) but UiPathTeam.ExtractDataTablesFromHTML.Activities 1.0.4 was not found. An approximate best match of UiPathTeam.ExtractDataTablesFromHTML.Activities 2.0.2 was resolved.",
       "libraryId": "UiPathTeam.ExtractDataTablesFromHTML.Activities",
       "targetGraphs": [
         ".NETFramework,Version=v4.6.1",

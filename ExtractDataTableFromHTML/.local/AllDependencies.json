@@ -155,7 +155,7 @@
           }
         }
       },
-      "HtmlAgilityPack/1.11.38": {
+      "HtmlAgilityPack/1.11.54": {
         "type": "package",
         "compile": {
           "lib/Net45/_._": {
@@ -2540,6 +2540,18 @@
           "lib/net461/UiPath.Vision.Tesseract.dll": {},
           "lib/net461/UiPath.Vision.dll": {}
         }
+      },
+      "UiPathTeam.ExtractDataTablesFromHTML.Activities/2.0.2": {
+        "type": "package",
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.54"
+        },
+        "compile": {
+          "lib/net461/_._": {}
+        },
+        "runtime": {
+          "lib/net461/UiPathTeam.ExtractDataTablesFromHTML.Activities.dll": {}
+        }
       }
     },
     ".NETFramework,Version=v4.6.1/win-x86": {
@@ -2696,7 +2708,7 @@
           }
         }
       },
-      "HtmlAgilityPack/1.11.38": {
+      "HtmlAgilityPack/1.11.54": {
         "type": "package",
         "compile": {
           "lib/Net45/_._": {
@@ -5066,6 +5078,18 @@
           "lib/net461/UiPath.Vision.Tesseract.dll": {},
           "lib/net461/UiPath.Vision.dll": {}
         }
+      },
+      "UiPathTeam.ExtractDataTablesFromHTML.Activities/2.0.2": {
+        "type": "package",
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.54"
+        },
+        "compile": {
+          "lib/net461/_._": {}
+        },
+        "runtime": {
+          "lib/net461/UiPathTeam.ExtractDataTablesFromHTML.Activities.dll": {}
+        }
       }
     }
   },
@@ -5275,14 +5299,14 @@
         "lib/netstandard2.0/Google.Apis.PeopleService.v1.xml"
       ]
     },
-    "HtmlAgilityPack/1.11.38": {
-      "sha512": "DC1j3GzU9lBp8hSXb9eYRHiJOUS5sxjBjme/4RTYjTXlgiFCOMXkIY+rmL+BtUss1pCwCN4LaVlZ/ci/fWY+lA==",
+    "HtmlAgilityPack/1.11.54": {
+      "sha512": "bgB79N4urc4D7hrD4R+Qk6CjPiYOfs6vfXNsmw3nCcfQEQvBQGjfAcl5k/tB1ZP1hA0d7xXs0jK8xAXV36IVUg==",
       "type": "package",
-      "path": "htmlagilitypack/1.11.38",
+      "path": "htmlagilitypack/1.11.54",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "htmlagilitypack.1.11.38.nupkg.sha512",
+        "htmlagilitypack.1.11.54.nupkg.sha512",
         "htmlagilitypack.nuspec",
         "lib/Net35/HtmlAgilityPack.dll",
         "lib/Net35/HtmlAgilityPack.pdb",
@@ -9023,16 +9047,29 @@
         "uipath.vision.3.3.0.nupkg.sha512",
         "uipath.vision.nuspec"
       ]
+    },
+    "UiPathTeam.ExtractDataTablesFromHTML.Activities/2.0.2": {
+      "sha512": "hbmfSC7H+iNVtCi3eHzxg1lwOr7tlx6hI9Im/RFaEJGG60ZwiPb6u2o9k3wXII2spYeXFtgPtSHmMzkOZAX+oA==",
+      "type": "package",
+      "path": "uipathteam.extractdatatablesfromhtml.activities/2.0.2",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net461/UiPathTeam.ExtractDataTablesFromHTML.Activities.dll",
+        "lib/net6.0-windows7.0/UiPathTeam.ExtractDataTablesFromHTML.Activities.dll",
+        "lib/net6.0/UiPathTeam.ExtractDataTablesFromHTML.Activities.dll",
+        "uipathteam.extractdatatablesfromhtml.activities.2.0.2.nupkg.sha512",
+        "uipathteam.extractdatatablesfromhtml.activities.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "": [],
     ".NETFramework,Version=v4.6.1": [
-      "UiPath.Excel.Activities >= 2.12.3 <= 2.12.3",
-      "UiPath.Mail.Activities >= 1.15.2 <= 1.15.2",
-      "UiPath.System.Activities >= 22.4.4 <= 22.4.4",
-      "UiPath.UIAutomation.Activities >= 22.4.7 <= 22.4.7",
-      "UiPathTeam.ExtractDataTablesFromHTML.Activities >= 1.0.4 <= 1.0.4"
+      "UiPath.Excel.Activities >= 2.12.3",
+      "UiPath.Mail.Activities >= 1.15.2",
+      "UiPath.System.Activities >= 22.4.4",
+      "UiPath.UIAutomation.Activities >= 22.4.7",
+      "UiPathTeam.ExtractDataTablesFromHTML.Activities >= 1.0.4"
     ]
   },
   "packageFolders": {
@@ -9042,9 +9079,9 @@
     "restore": {
       "projectUniqueName": "ExtractDataTableFromHTML",
       "projectName": "ExtractDataTableFromHTML",
-      "projectPath": "D:\\OneDrive - SMARTHIS CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO LTDA\\01. TRABALHO\\TEMPLATES\\ExtractDataTableFromHTML\\.local",
+      "projectPath": "D:\\Repos\\smarthis\\html-to-datatable\\ExtractDataTableFromHTML\\.local",
       "packagesPath": "C:\\Users\\Renat\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive - SMARTHIS CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO LTDA\\01. TRABALHO\\TEMPLATES\\ExtractDataTableFromHTML\\.local"
+      "outputPath": "D:\\Repos\\smarthis\\html-to-datatable\\ExtractDataTableFromHTML\\.local"
     },
     "frameworks": {
       "net461": {
@@ -9052,27 +9089,27 @@
           "UiPath.Excel.Activities": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[2.12.3, 2.12.3]"
+            "version": "[2.12.3, )"
           },
           "UiPath.Mail.Activities": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[1.15.2, 1.15.2]"
+            "version": "[1.15.2, )"
           },
           "UiPath.System.Activities": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[22.4.4, 22.4.4]"
+            "version": "[22.4.4, )"
           },
           "UiPath.UIAutomation.Activities": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[22.4.7, 22.4.7]"
+            "version": "[22.4.7, )"
           },
           "UiPathTeam.ExtractDataTablesFromHTML.Activities": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[1.0.4, 1.0.4]"
+            "version": "[1.0.4, )"
           }
         },
         "runtimeIdentifierGraphPath": "D:\\Program Files\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
@@ -9086,9 +9123,10 @@
   },
   "logs": [
     {
-      "code": "NU1102",
-      "level": "Error",
-      "message": "Unable to find package UiPathTeam.ExtractDataTablesFromHTML.Activities with version (= 1.0.4)\r\n  - Found 2 version(s) in https://gallery.uipath.com/api/v3/index.json [ Nearest version: 2.0.2 ]\r\n  - Found 0 version(s) in C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\r\n  - Found 0 version(s) in D:\\Program Files\\UiPath\\Studio\\Packages\r\n  - Found 0 version(s) in https://api.nuget.org/v3/index.json\r\n  - Found 0 version(s) in https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json\r\n  - Found 0 version(s) in https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json",
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "ExtractDataTableFromHTML depends on UiPathTeam.ExtractDataTablesFromHTML.Activities (>= 1.0.4) but UiPathTeam.ExtractDataTablesFromHTML.Activities 1.0.4 was not found. An approximate best match of UiPathTeam.ExtractDataTablesFromHTML.Activities 2.0.2 was resolved.",
       "libraryId": "UiPathTeam.ExtractDataTablesFromHTML.Activities",
       "targetGraphs": [
         ".NETFramework,Version=v4.6.1",

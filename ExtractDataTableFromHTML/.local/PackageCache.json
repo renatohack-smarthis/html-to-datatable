@@ -46,7 +46,7 @@
         "C:\\Users\\Renat\\.nuget\\packages\\google.apis.core\\1.55.0\\lib/net45/Google.Apis.Core.dll",
         "C:\\Users\\Renat\\.nuget\\packages\\google.apis.gmail.v1\\1.55.0.2510\\lib/net45/Google.Apis.Gmail.v1.dll",
         "C:\\Users\\Renat\\.nuget\\packages\\google.apis.peopleservice.v1\\1.55.0.2567\\lib/net45/Google.Apis.PeopleService.v1.dll",
-        "C:\\Users\\Renat\\.nuget\\packages\\htmlagilitypack\\1.11.38\\lib/Net45/HtmlAgilityPack.dll",
+        "C:\\Users\\Renat\\.nuget\\packages\\htmlagilitypack\\1.11.54\\lib/Net45/HtmlAgilityPack.dll",
         "C:\\Users\\Renat\\.nuget\\packages\\mailkit\\3.1.1\\lib/net46/MailKit.dll",
         "C:\\Users\\Renat\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
         "C:\\Users\\Renat\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
@@ -203,10 +203,13 @@
     {
       "Package": {
         "Id": "UiPathTeam.ExtractDataTablesFromHTML.Activities",
-        "Version": "[1.0.4]"
+        "Version": "2.0.2"
       },
-      "Assemblies": [],
-      "Path": null
+      "Assemblies": [
+        "C:\\Users\\Renat\\.nuget\\packages\\htmlagilitypack\\1.11.54\\lib/Net45/HtmlAgilityPack.dll",
+        "C:\\Users\\Renat\\.nuget\\packages\\uipathteam.extractdatatablesfromhtml.activities\\2.0.2\\lib/net461/UiPathTeam.ExtractDataTablesFromHTML.Activities.dll"
+      ],
+      "Path": "C:\\Users\\Renat\\.nuget\\packages\\uipathteam.extractdatatablesfromhtml.activities\\2.0.2"
     }
   ],
   "Conflicts": [],
@@ -318,7 +321,7 @@
     },
     "HtmlAgilityPack": {
       "Id": "HtmlAgilityPack",
-      "Version": "1.11.38",
+      "Version": "1.11.54",
       "Dependencies": []
     },
     "MailKit": {
@@ -1500,6 +1503,16 @@
           "Item2": "[2.11.0, )"
         }
       ]
+    },
+    "UiPathTeam.ExtractDataTablesFromHTML.Activities": {
+      "Id": "UiPathTeam.ExtractDataTablesFromHTML.Activities",
+      "Version": "2.0.2",
+      "Dependencies": [
+        {
+          "Item1": "HtmlAgilityPack",
+          "Item2": "[1.11.54, )"
+        }
+      ]
     }
   },
   "AllPackages": [
@@ -1598,12 +1611,12 @@
     {
       "Package": {
         "Id": "HtmlAgilityPack",
-        "Version": "1.11.38"
+        "Version": "1.11.54"
       },
       "Assemblies": [
-        "C:\\Users\\Renat\\.nuget\\packages\\htmlagilitypack\\1.11.38\\lib\\Net45\\HtmlAgilityPack.dll"
+        "C:\\Users\\Renat\\.nuget\\packages\\htmlagilitypack\\1.11.54\\lib\\Net45\\HtmlAgilityPack.dll"
       ],
-      "Path": "C:\\Users\\Renat\\.nuget\\packages\\htmlagilitypack\\1.11.38"
+      "Path": "C:\\Users\\Renat\\.nuget\\packages\\htmlagilitypack\\1.11.54"
     },
     {
       "Package": {
@@ -2526,6 +2539,16 @@
         "C:\\Users\\Renat\\.nuget\\packages\\uipath.vision\\3.3.0\\lib\\net461\\UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\Renat\\.nuget\\packages\\uipath.vision\\3.3.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPathTeam.ExtractDataTablesFromHTML.Activities",
+        "Version": "2.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Renat\\.nuget\\packages\\uipathteam.extractdatatablesfromhtml.activities\\2.0.2\\lib\\net461\\UiPathTeam.ExtractDataTablesFromHTML.Activities.dll"
+      ],
+      "Path": "C:\\Users\\Renat\\.nuget\\packages\\uipathteam.extractdatatablesfromhtml.activities\\2.0.2"
     }
   ]
 }

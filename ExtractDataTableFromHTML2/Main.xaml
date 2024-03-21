@@ -1,4 +1,4 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="Main" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="682,2935" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:str="clr-namespace:System.Text.RegularExpressions;assembly=System" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="1408,3217" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:str="clr-namespace:System.Text.RegularExpressions;assembly=System" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="37">
       <x:String>System.Activities</x:String>
@@ -79,7 +79,7 @@
       <AssemblyReference>WindowsBase</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap:VirtualizedContainerService.HintSize="692,2910" sap2010:WorkflowViewState.IdRef="Sequence_2">
+  <Sequence sap:VirtualizedContainerService.HintSize="708,3152" sap2010:WorkflowViewState.IdRef="Sequence_2">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="body" />
       <Variable x:TypeArguments="scg:IEnumerable(str:Match)" Name="linhas" />
@@ -92,8 +92,8 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:ReadTextFile File="{x:Null}" Content="[body]" DisplayName="Read Text File HTML" FileName="text.txt" sap:VirtualizedContainerService.HintSize="630,80" sap2010:WorkflowViewState.IdRef="ReadTextFile_1" />
-    <Assign sap:VirtualizedContainerService.HintSize="630,82" sap2010:WorkflowViewState.IdRef="Assign_14">
+    <ui:ReadTextFile File="{x:Null}" Content="[body]" DisplayName="Read Text File HTML" FileName="text.txt" sap:VirtualizedContainerService.HintSize="646,80" sap2010:WorkflowViewState.IdRef="ReadTextFile_1" />
+    <Assign sap:VirtualizedContainerService.HintSize="646,82" sap2010:WorkflowViewState.IdRef="Assign_14">
       <Assign.To>
         <OutArgument x:TypeArguments="scg:List(scg:List(x:String))">[listaLinhas]</OutArgument>
       </Assign.To>
@@ -101,13 +101,13 @@
         <InArgument x:TypeArguments="scg:List(scg:List(x:String))">[New List(Of List(Of String))]</InArgument>
       </Assign.Value>
     </Assign>
-    <Sequence DisplayName="Separa linhas" sap:VirtualizedContainerService.HintSize="630,81" sap2010:WorkflowViewState.IdRef="Sequence_8">
+    <Sequence DisplayName="Separa linhas" sap:VirtualizedContainerService.HintSize="646,324" sap2010:WorkflowViewState.IdRef="Sequence_8">
       <Sequence.Variables>
         <Variable x:TypeArguments="x:String" Name="regexLinhas" />
       </Sequence.Variables>
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
-          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
           <x:Boolean x:Key="IsPinned">False</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
@@ -127,14 +127,14 @@
         </sap:WorkflowViewStateService.ViewState>
       </ui:Matches>
     </Sequence>
-    <ui:BuildDataTable DataTable="[dataTableTeste]" DisplayName="Build Data Table - data" sap:VirtualizedContainerService.HintSize="630,60" sap2010:WorkflowViewState.IdRef="BuildDataTable_1" TableInfo="&lt;NewDataSet&gt;&#xA;  &lt;xs:schema id=&quot;NewDataSet&quot; xmlns=&quot;&quot; xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:msdata=&quot;urn:schemas-microsoft-com:xml-msdata&quot;&gt;&#xA;    &lt;xs:element name=&quot;NewDataSet&quot; msdata:IsDataSet=&quot;true&quot; msdata:MainDataTable=&quot;TableName&quot; msdata:UseCurrentLocale=&quot;true&quot;&gt;&#xA;      &lt;xs:complexType&gt;&#xA;        &lt;xs:choice minOccurs=&quot;0&quot; maxOccurs=&quot;unbounded&quot;&gt;&#xA;          &lt;xs:element name=&quot;TableName&quot;&gt;&#xA;            &lt;xs:complexType&gt;&#xA;            &lt;/xs:complexType&gt;&#xA;          &lt;/xs:element&gt;&#xA;        &lt;/xs:choice&gt;&#xA;      &lt;/xs:complexType&gt;&#xA;    &lt;/xs:element&gt;&#xA;  &lt;/xs:schema&gt;&#xA;&lt;/NewDataSet&gt;" />
-    <ui:ForEach x:TypeArguments="str:Match" CurrentIndex="{x:Null}" DisplayName="For Each - linha" sap:VirtualizedContainerService.HintSize="630,1500" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[linhas]">
+    <ui:BuildDataTable DataTable="[dataTableTeste]" DisplayName="Build Data Table - data" sap:VirtualizedContainerService.HintSize="646,60" sap2010:WorkflowViewState.IdRef="BuildDataTable_1" TableInfo="&lt;NewDataSet&gt;&#xA;  &lt;xs:schema id=&quot;NewDataSet&quot; xmlns=&quot;&quot; xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:msdata=&quot;urn:schemas-microsoft-com:xml-msdata&quot;&gt;&#xA;    &lt;xs:element name=&quot;NewDataSet&quot; msdata:IsDataSet=&quot;true&quot; msdata:MainDataTable=&quot;TableName&quot; msdata:UseCurrentLocale=&quot;true&quot;&gt;&#xA;      &lt;xs:complexType&gt;&#xA;        &lt;xs:choice minOccurs=&quot;0&quot; maxOccurs=&quot;unbounded&quot;&gt;&#xA;          &lt;xs:element name=&quot;TableName&quot;&gt;&#xA;            &lt;xs:complexType&gt;&#xA;            &lt;/xs:complexType&gt;&#xA;          &lt;/xs:element&gt;&#xA;        &lt;/xs:choice&gt;&#xA;      &lt;/xs:complexType&gt;&#xA;    &lt;/xs:element&gt;&#xA;  &lt;/xs:schema&gt;&#xA;&lt;/NewDataSet&gt;" />
+    <ui:ForEach x:TypeArguments="str:Match" CurrentIndex="{x:Null}" DisplayName="For Each - linha" sap:VirtualizedContainerService.HintSize="646,1499" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[linhas]">
       <ui:ForEach.Body>
         <ActivityAction x:TypeArguments="str:Match">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="str:Match" Name="linha" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Buscar cada dado presente em cada TD" sap:VirtualizedContainerService.HintSize="594,1375" sap2010:WorkflowViewState.IdRef="Sequence_3">
+          <Sequence DisplayName="Buscar cada dado presente em cada TD" sap:VirtualizedContainerService.HintSize="610,1373" sap2010:WorkflowViewState.IdRef="Sequence_3">
             <Sequence.Variables>
               <Variable x:TypeArguments="scg:IEnumerable(str:Match)" Name="dados" />
               <Variable x:TypeArguments="scg:List(x:String)" Name="listaDados" />
@@ -145,7 +145,7 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <Assign DisplayName="Assign - resetar listaDados" sap:VirtualizedContainerService.HintSize="532,81" sap2010:WorkflowViewState.IdRef="Assign_3">
+            <Assign DisplayName="Assign - resetar listaDados" sap:VirtualizedContainerService.HintSize="548,82" sap2010:WorkflowViewState.IdRef="Assign_3">
               <Assign.To>
                 <OutArgument x:TypeArguments="scg:List(x:String)">[listaDados]</OutArgument>
               </Assign.To>
@@ -153,7 +153,7 @@
                 <InArgument x:TypeArguments="scg:List(x:String)">[New List(Of String)]</InArgument>
               </Assign.Value>
             </Assign>
-            <Sequence DisplayName="Pega os dados dentro de TD" sap:VirtualizedContainerService.HintSize="532,292" sap2010:WorkflowViewState.IdRef="Sequence_5">
+            <Sequence DisplayName="Pega os dados dentro de TD" sap:VirtualizedContainerService.HintSize="548,293" sap2010:WorkflowViewState.IdRef="Sequence_5">
               <Sequence.Variables>
                 <Variable x:TypeArguments="x:String" Name="regexDentroTD" />
               </Sequence.Variables>
@@ -163,7 +163,7 @@
                   <x:Boolean x:Key="IsPinned">False</x:Boolean>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <Assign DisplayName="Assign - regex td (dados)" sap:VirtualizedContainerService.HintSize="434,81" sap2010:WorkflowViewState.IdRef="Assign_4">
+              <Assign DisplayName="Assign - regex td (dados)" sap:VirtualizedContainerService.HintSize="434,82" sap2010:WorkflowViewState.IdRef="Assign_4">
                 <Assign.To>
                   <OutArgument x:TypeArguments="x:String">[regexDentroTD]</OutArgument>
                 </Assign.To>
@@ -173,19 +173,19 @@
               </Assign>
               <ui:Matches DisplayName="Matches dados" sap:VirtualizedContainerService.HintSize="434,60" sap2010:WorkflowViewState.IdRef="Matches_2" Input="[linha.Value]" IsBuilderTabModified="False" Pattern="[regexDentroTD]" RegexOption="IgnoreCase, Compiled" Result="[dados]" />
             </Sequence>
-            <ui:ForEach x:TypeArguments="str:Match" CurrentIndex="{x:Null}" DisplayName="For Each - dentro de cada TD, transformar remover tags" sap:VirtualizedContainerService.HintSize="532,746" sap2010:WorkflowViewState.IdRef="ForEach`1_2" Values="[dados]">
+            <ui:ForEach x:TypeArguments="str:Match" CurrentIndex="{x:Null}" DisplayName="For Each - dentro de cada TD, transformar remover tags" sap:VirtualizedContainerService.HintSize="548,745" sap2010:WorkflowViewState.IdRef="ForEach`1_2" Values="[dados]">
               <ui:ForEach.Body>
                 <ActivityAction x:TypeArguments="str:Match">
                   <ActivityAction.Argument>
                     <DelegateInArgument x:TypeArguments="str:Match" Name="dado" />
                   </ActivityAction.Argument>
-                  <Sequence DisplayName="Remover tags dentro de cada TD" sap:VirtualizedContainerService.HintSize="496,621" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                  <Sequence DisplayName="Remover tags dentro de cada TD" sap:VirtualizedContainerService.HintSize="512,619" sap2010:WorkflowViewState.IdRef="Sequence_4">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <Assign DisplayName="Assign - resetar dadoTransf" sap:VirtualizedContainerService.HintSize="434,81" sap2010:WorkflowViewState.IdRef="Assign_12">
+                    <Assign DisplayName="Assign - resetar dadoTransf" sap:VirtualizedContainerService.HintSize="450,82" sap2010:WorkflowViewState.IdRef="Assign_12">
                       <Assign.To>
                         <OutArgument x:TypeArguments="x:String">[dadoTransf]</OutArgument>
                       </Assign.To>
@@ -193,7 +193,7 @@
                         <InArgument x:TypeArguments="x:String">[dado.Value.Trim.Replace(Environment.NewLine, "").Replace(vbLf, "")]</InArgument>
                       </Assign.Value>
                     </Assign>
-                    <Sequence DisplayName="Remover &lt;p&gt; transformando em &lt;br&gt;" sap:VirtualizedContainerService.HintSize="434,81" sap2010:WorkflowViewState.IdRef="Sequence_6">
+                    <Sequence DisplayName="Remover &lt;p&gt; transformando em &lt;br&gt;" sap:VirtualizedContainerService.HintSize="450,81" sap2010:WorkflowViewState.IdRef="Sequence_6">
                       <Sequence.Variables>
                         <Variable x:TypeArguments="x:String" Name="regexP" />
                       </Sequence.Variables>
@@ -213,7 +213,7 @@
                       </Assign>
                       <ui:Replace DisplayName="Replace - &lt;p&gt; por &lt;br&gt;" sap:VirtualizedContainerService.HintSize="434,60" sap2010:WorkflowViewState.IdRef="Replace_1" Input="[dadoTransf]" IsBuilderTabModified="False" Pattern="[regexP]" RegexOption="IgnoreCase, Compiled" Replacement="&lt;br&gt;" Result="[dadoTransf]" />
                     </Sequence>
-                    <Sequence DisplayName="Remover &lt;br&gt; pulando linhas e &lt;tag&gt;, &lt;/tag&gt; em &quot;&quot;" sap:VirtualizedContainerService.HintSize="434,81" sap2010:WorkflowViewState.IdRef="Sequence_7">
+                    <Sequence DisplayName="Remover &lt;br&gt; pulando linhas e &lt;tag&gt;, &lt;/tag&gt; em &quot;&quot;" sap:VirtualizedContainerService.HintSize="450,81" sap2010:WorkflowViewState.IdRef="Sequence_7">
                       <Sequence.Variables>
                         <Variable x:TypeArguments="x:String" Name="regexTagOpen" />
                         <Variable x:TypeArguments="x:String" Name="regexTagClosure" />
@@ -263,7 +263,7 @@
                         </ui:Replace.Replacement>
                       </ui:Replace>
                     </Sequence>
-                    <Assign DisplayName="Assign - remove whitespace" sap:VirtualizedContainerService.HintSize="434,82" sap2010:WorkflowViewState.IdRef="Assign_16">
+                    <Assign DisplayName="Assign - remove whitespace" sap:VirtualizedContainerService.HintSize="450,82" sap2010:WorkflowViewState.IdRef="Assign_16">
                       <Assign.To>
                         <OutArgument x:TypeArguments="x:String">[dadoTransf]</OutArgument>
                       </Assign.To>
@@ -271,7 +271,7 @@
                         <InArgument x:TypeArguments="x:String">[String.Join(Environment.NewLine, Split(dadoTransf, Environment.NewLine).Select(Function(e) e.Trim).ToList)]</InArgument>
                       </Assign.Value>
                     </Assign>
-                    <AddToCollection x:TypeArguments="x:String" Collection="[listaDados]" DisplayName="Add To Collection dados da linha" sap:VirtualizedContainerService.HintSize="434,25" sap2010:WorkflowViewState.IdRef="AddToCollection`1_1" Item="[dadoTransf]" />
+                    <AddToCollection x:TypeArguments="x:String" Collection="[listaDados]" DisplayName="Add To Collection dados da linha" sap:VirtualizedContainerService.HintSize="450,25" sap2010:WorkflowViewState.IdRef="AddToCollection`1_1" Item="[dadoTransf]" />
                   </Sequence>
                 </ActivityAction>
               </ui:ForEach.Body>
@@ -282,7 +282,7 @@
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
             </ui:ForEach>
-            <AddToCollection x:TypeArguments="scg:List(x:String)" Collection="[listaLinhas]" DisplayName="Add To Collection - lista linhas" sap:VirtualizedContainerService.HintSize="532,25" sap2010:WorkflowViewState.IdRef="AddToCollection`1_2" Item="[listaDados]" />
+            <AddToCollection x:TypeArguments="scg:List(x:String)" Collection="[listaLinhas]" DisplayName="Add To Collection - lista linhas" sap:VirtualizedContainerService.HintSize="548,25" sap2010:WorkflowViewState.IdRef="AddToCollection`1_2" Item="[listaDados]" />
           </Sequence>
         </ActivityAction>
       </ui:ForEach.Body>
@@ -293,7 +293,7 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:ForEach>
-    <ui:ForEach x:TypeArguments="x:String" CurrentIndex="[columnIndex]" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="630,312" sap2010:WorkflowViewState.IdRef="ForEach`1_9" Values="[listaLinhas(0)]">
+    <ui:ForEach x:TypeArguments="x:String" CurrentIndex="[columnIndex]" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="646,312" sap2010:WorkflowViewState.IdRef="ForEach`1_9" Values="[listaLinhas(0)]">
       <ui:ForEach.Body>
         <ActivityAction x:TypeArguments="x:String">
           <ActivityAction.Argument>
@@ -303,7 +303,7 @@
         </ActivityAction>
       </ui:ForEach.Body>
     </ui:ForEach>
-    <ui:ForEach x:TypeArguments="scg:List(x:String)" CurrentIndex="{x:Null}" DisplayName="For Each - fill datatable" sap:VirtualizedContainerService.HintSize="630,312" sap2010:WorkflowViewState.IdRef="ForEach`1_7" Values="[listaLinhas]">
+    <ui:ForEach x:TypeArguments="scg:List(x:String)" CurrentIndex="{x:Null}" DisplayName="For Each - fill datatable" sap:VirtualizedContainerService.HintSize="646,312" sap2010:WorkflowViewState.IdRef="ForEach`1_7" Values="[listaLinhas]">
       <ui:ForEach.Body>
         <ActivityAction x:TypeArguments="scg:List(x:String)">
           <ActivityAction.Argument>
@@ -313,6 +313,6 @@
         </ActivityAction>
       </ui:ForEach.Body>
     </ui:ForEach>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="630,92" sap2010:WorkflowViewState.IdRef="LogMessage_4" Level="Info" Message="[&quot;ok&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="646,92" sap2010:WorkflowViewState.IdRef="LogMessage_4" Level="Info" Message="[&quot;ok&quot;]" />
   </Sequence>
 </Activity>
