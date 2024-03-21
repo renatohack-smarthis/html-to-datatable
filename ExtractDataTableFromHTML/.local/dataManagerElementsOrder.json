@@ -1,0 +1,64 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "matchesInsideTagTR&Sequence_2",
+        "dataTableTeste&Sequence_2",
+        "listaLinhas&Sequence_2",
+        "columnIndex&Sequence_2",
+        "specialChars&Sequence_2",
+        "backup&Sequence_2",
+        "regexLinhas&Sequence_2",
+        "regexDentroTD&Sequence_2",
+        "regexTagP&Sequence_2",
+        "regexAnyTagOpen&Sequence_2",
+        "regexAnyTagClosure&Sequence_2",
+        "listMatchesTables&Sequence_2",
+        "dataTables&Sequence_2",
+        "listMatchesTR&Sequence_18",
+        "listRows&Sequence_18",
+        "dtCreated&Sequence_18",
+        "listMatchesTD&Sequence_19",
+        "listData&Sequence_19",
+        "rawContent&Sequence_21",
+        "matchesInsideTagTD&Sequence_3",
+        "listDados&Sequence_3",
+        "rawContent&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "HasHeaders",
+        "ContentFilter",
+        "out_listDataTables",
+        "HTMLText"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Workflows/ExtractTablesOccurrence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "regexTagTable&Sequence_1",
+        "matchesTables&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_specialChars",
+        "out_listMatchesTables",
+        "in_contentFilter",
+        "in_HTMLText"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

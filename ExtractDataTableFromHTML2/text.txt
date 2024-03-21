@@ -1,0 +1,24 @@
+﻿<tr bgcolor="#000066" align="center">
+   <td><font color="#ffffff">BOOKING</font></td>
+   <td><font color="#ffffff">POL</font></td>
+   <td><font color="#ffffff">POD</font></td>
+   <td><font color="#ffffff">CT-Es</font></td>
+   <td><font color="#ffffff">CNTRs</font></td>
+   <td><font color="#ffffff">NFs</font></td>
+   <td><font color="#ffffff">CE Mercante</font></td>
+</tr>
+<tr align="center">
+   <td>
+      kkkkk
+      <p>LA0248631</p>
+      <p aaa="bbb">sasasa</p>
+      <br>asasasa
+   </td>
+   <td>SANTOS</td>
+   <td>MANAUS</td>
+   <td>LA0248631A</td>
+   <td>TCLU1160151</td>
+   <td></td>
+   <td>36971</td>
+</tr>
+</tr>

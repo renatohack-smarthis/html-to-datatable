@@ -1,0 +1,429 @@
+﻿<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+span.EstiloDeEmail20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="PT-BR" link="blue" vlink="purple" style="word-wrap:break-word">
+<div class="WordSection1">
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style="border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm">
+<p class="MsoNormal"><b>De:</b> vinicius.oliveira@one-line.com &lt;vinicius.oliveira@one-line.com&gt;
+<b>Em nome de </b>BR FATURAMENTO<br>
+<b>Enviada em:</b> sexta-feira, 30 de dezembro de 2022 11:19<br>
+<b>Para:</b> RPA ROBOT &lt;Servico.Robot@loginlogistica.com.br&gt;<br>
+<b>Cc:</b> Flaviane.Fernandes &lt;Flaviane.Fernandes@loginlogistica.com.br&gt;; Dayane.Muniz &lt;Dayane.Muniz@loginlogistica.com.br&gt;; Andressa.Clementino &lt;Andressa.Clementino@loginlogistica.com.br&gt;<br>
+<b>Assunto:</b> Re: Solicitação de WO: LOG-IN - RIG – OCEAN NETWORK EXPRESS PTE LTD – LOG-IN ENDURANCE/036N<o:p></o:p></p>
+</div>
+</div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="margin:0cm"><span style="font-size:11.5pt"><o:p>&nbsp;</o:p></span></p>
+<table class="MsoNormalTable" border="0" cellpadding="0" width="100%" style="width:100.0%">
+<tbody>
+<tr>
+<td width="100%" style="width:100.0%;border:solid #002060 1.0pt;padding:.75pt .75pt .75pt .75pt">
+<p style="margin:0cm"><strong><span style="font-size:10.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#548235">CUIDADO:</span></strong><span style="font-size:10.0pt;color:black">&nbsp;</span><span style="font-size:9.0pt;color:#002060">Este e-mail foi originado de fora
+ da Log-In. Não clique nos links ou abra o anexo, a menos que reconheça o remetente e tenha certeza que o conteúdo é seguro.</span><span style="font-size:11.5pt"><o:p></o:p></span></p>
+<p style="margin:0cm"><strong><span style="font-size:10.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#548235">PRECAUCIÓN:</span></strong><span style="font-size:10.0pt;color:#548235">&nbsp;</span><span style="font-size:9.0pt;color:#002060">Este correo electrónico se
+ originó fuera de Log-In. No haga clic en los enlaces ni abra el archivo adjunto a menos que reconozca al remitente y sepa que el contenido es seguro.</span><span style="font-size:11.5pt"><o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="margin:0cm"><span style="font-size:11.5pt"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div>
+<p class="MsoNormal">Bom dia! <o:p></o:p></p>
+<div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class="MsoNormal">Gentileza notar WO em anexo conforme abaixo:<o:p></o:p></p>
+</div>
+<div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="767" style="width:575.0pt;border-collapse:collapse">
+<tbody>
+<tr style="height:14.5pt">
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border:solid windowtext 1.0pt;background:#203764;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">Controle CTe</span></b><o:p></o:p></p>
+</td>
+<td width="93" nowrap="" valign="bottom" style="width:70.0pt;border:solid windowtext 1.0pt;border-left:none;background:#203764;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">Booking</span></b><o:p></o:p></p>
+</td>
+<td width="69" nowrap="" valign="bottom" style="width:52.0pt;border:solid windowtext 1.0pt;border-left:none;background:#203764;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">Nº CTe</span></b><o:p></o:p></p>
+</td>
+<td width="76" nowrap="" valign="bottom" style="width:57.0pt;border:solid windowtext 1.0pt;border-left:none;background:#203764;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">Valor</span></b><o:p></o:p></p>
+</td>
+<td width="81" nowrap="" valign="bottom" style="width:61.0pt;border:solid windowtext 1.0pt;border-left:none;background:#203764;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">Tomador</span></b><o:p></o:p></p>
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border:solid windowtext 1.0pt;border-left:none;background:#203764;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">CTNR</span></b><o:p></o:p></p>
+</td>
+<td width="97" nowrap="" valign="bottom" style="width:73.0pt;border:solid windowtext 1.0pt;border-left:none;background:#203764;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">Taxa do dólar</span></b><o:p></o:p></p>
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border:solid windowtext 1.0pt;border-left:none;background:#548235;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">WO</span></b><o:p></o:p></p>
+</td>
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border:solid windowtext 1.0pt;border-left:none;background:#548235;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">Observação</span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr style="height:14.5pt">
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">LA0279966A</span><o:p></o:p></p>
+</td>
+<td width="93" nowrap="" valign="bottom" style="width:70.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">LA0279966</span><o:p></o:p></p>
+</td>
+<td width="69" nowrap="" valign="bottom" style="width:52.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">61788</span><o:p></o:p></p>
+</td>
+<td width="76" nowrap="" valign="bottom" style="width:57.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">22167.76</span><o:p></o:p></p>
+</td>
+<td width="81" nowrap="" valign="bottom" style="width:61.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">OCEAN NETWORK EXPRESS PTE LTD</span><o:p></o:p></p>
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">TCLU8451992 TCNU4003024 TCNU4272790 TRHU4776136</span><o:p></o:p></p>
+</td>
+<td width="97" nowrap="" valign="bottom" style="width:73.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal">SAO4690264 <o:p></o:p></p>
+</td>
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+</tr>
+<tr style="height:14.5pt">
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">LA0279967A</span><o:p></o:p></p>
+</td>
+<td width="93" nowrap="" valign="bottom" style="width:70.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">LA0279967</span><o:p></o:p></p>
+</td>
+<td width="69" nowrap="" valign="bottom" style="width:52.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">61789</span><o:p></o:p></p>
+</td>
+<td width="76" nowrap="" valign="bottom" style="width:57.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">18610.76</span><o:p></o:p></p>
+</td>
+<td width="81" nowrap="" valign="bottom" style="width:61.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">OCEAN NETWORK EXPRESS PTE LTD</span><o:p></o:p></p>
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">NYKU3569284 NYKU3891747 NYKU9793516 TCKU3438326</span><o:p></o:p></p>
+</td>
+<td width="97" nowrap="" valign="bottom" style="width:73.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal">SAO4690298 <o:p></o:p></p>
+</td>
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+</tr>
+<tr style="height:14.5pt">
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">LA0279970B</span><o:p></o:p></p>
+</td>
+<td width="93" nowrap="" valign="bottom" style="width:70.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">LA0279970</span><o:p></o:p></p>
+</td>
+<td width="69" nowrap="" valign="bottom" style="width:52.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">61790</span><o:p></o:p></p>
+</td>
+<td width="76" nowrap="" valign="bottom" style="width:57.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">5541.94</span><o:p></o:p></p>
+</td>
+<td width="81" nowrap="" valign="bottom" style="width:61.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">OCEAN NETWORK EXPRESS PTE LTD</span><o:p></o:p></p>
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">KKFU1860290</span><o:p></o:p></p>
+</td>
+<td width="97" nowrap="" valign="bottom" style="width:73.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal">SAO4690316 <o:p></o:p></p>
+</td>
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class="MsoNormal"><br clear="all">
+<o:p></o:p></p>
+<div>
+<div>
+<div>
+<p style="margin:0cm"><span style="font-family:&quot;Arial&quot;,sans-serif">Many thanks and best regards,</span><o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="margin:0cm"><a href="https://br.one-line.com/pt-br" target="_blank"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#1155CC;border:none windowtext 1.0pt;padding:0cm;text-decoration:none"><img border="0" width="207" height="115" style="width:2.1562in;height:1.1979in" id="_x0000_i1026" src="https://lh6.googleusercontent.com/y8H8sN-NZtrV16WpIduJsQoaMmkOLTufgAkxiSSPMntOBmar7hKkDJBtefbr5zJVVU9dVY4yDiXOHkxhFd5D89P4-_zYfTUyWq6w6nBBne-ZETvUdQOEgNlc7shOkfSudEoRIDDL"></span></a><o:p></o:p></p>
+<p style="margin:0cm"><span style="font-family:&quot;Arial&quot;,sans-serif">□----------------------------------------------□</span><o:p></o:p></p>
+<p style="margin:0cm"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Container Flow - Santos Branch</span><o:p></o:p></p>
+<p style="margin:0cm"><span style="font-family:&quot;Arial&quot;,sans-serif">□----------------------------------------------□</span><o:p></o:p></p>
+<p style="margin:0cm"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Ocean Network Express (Latin America)</span></b><o:p></o:p></p>
+<p style="margin:0cm"><span style="font-family:&quot;Arial&quot;,sans-serif">Rua Guaiaó, 66 - salas 1112, 1113, 1114, 1115, 1116 - Aparecida</span><o:p></o:p></p>
+<p style="margin:0cm"><span style="font-family:&quot;Arial&quot;,sans-serif">Santos/SP</span><o:p></o:p></p>
+<p style="margin:0cm"><span style="font-family:&quot;Arial&quot;,sans-serif">CEP: 11035-260</span><o:p></o:p></p>
+<p style="margin:0cm"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Phone: +55 13 3500-0591</span><o:p></o:p></p>
+<p style="margin:0cm"><a href="https://www.one-line.com/en" target="_blank"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#1155CC">www.one-line.com</span></a><o:p></o:p></p>
+<p style="margin:0cm"><a href="https://br.one-line.com/en/advanced-page/one-mobile-app" target="_blank"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#1155CC;border:none windowtext 1.0pt;padding:0cm;text-decoration:none"><img border="0" width="624" height="133" style="width:6.5in;height:1.3854in" id="_x0000_i1025" src="https://lh3.googleusercontent.com/bplztiuyLwnP_A8vOwD1-hAVk_MJMAFAfgsrc3yrVhDxkckQQLD8-1OvcOZnWbMo5PaxWs7XCMlZ2d1kc52EHpOmX8lHBE2PyKuf-_DdeE-nYT3R_5YuauHFSWVvK2ijSYD6ATUT2IhN5HZsrg"></span></a><span style="font-family:&quot;Arial&quot;,sans-serif;color:#1155CC"><br>
+<br>
+</span><o:p></o:p></p>
+</div>
+</div>
+</div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div>
+<p class="MsoNormal">Em qui., 29 de dez. de 2022 às 08:35, Robo.UiPath &lt;<a href="mailto:servico.robot@loginlogistica.com.br">servico.robot@loginlogistica.com.br</a>&gt; escreveu:<o:p></o:p></p>
+</div>
+<blockquote style="border:none;border-left:solid #CCCCCC 1.0pt;padding:0cm 0cm 0cm 6.0pt;margin-left:4.8pt;margin-right:0cm">
+<div>
+<p>Prezado cliente,<o:p></o:p></p>
+<p>Favor verificar e informar WO para os CTes listados abaixo, solicitamos o preenchimento da mesma coluna “WO”. Caso o CTe possua alguma divergência, favor informar na coluna “Observação”.<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="767" style="width:575.0pt;border-collapse:collapse">
+<tbody>
+<tr style="height:14.5pt">
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border:solid windowtext 1.0pt;background:#203764;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">Controle CTe</span></b><o:p></o:p></p>
+</td>
+<td width="93" nowrap="" valign="bottom" style="width:70.0pt;border:solid windowtext 1.0pt;border-left:none;background:#203764;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">Booking</span></b><o:p></o:p></p>
+</td>
+<td width="69" nowrap="" valign="bottom" style="width:52.0pt;border:solid windowtext 1.0pt;border-left:none;background:#203764;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">Nº CTe</span></b><o:p></o:p></p>
+</td>
+<td width="76" nowrap="" valign="bottom" style="width:57.0pt;border:solid windowtext 1.0pt;border-left:none;background:#203764;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">Valor</span></b><o:p></o:p></p>
+</td>
+<td width="81" nowrap="" valign="bottom" style="width:61.0pt;border:solid windowtext 1.0pt;border-left:none;background:#203764;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">Tomador</span></b><o:p></o:p></p>
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border:solid windowtext 1.0pt;border-left:none;background:#203764;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">CTNR</span></b><o:p></o:p></p>
+</td>
+<td width="97" nowrap="" valign="bottom" style="width:73.0pt;border:solid windowtext 1.0pt;border-left:none;background:#203764;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">Taxa do dólar</span></b><o:p></o:p></p>
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border:solid windowtext 1.0pt;border-left:none;background:#548235;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">WO</span></b><o:p></o:p></p>
+</td>
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border:solid windowtext 1.0pt;border-left:none;background:#548235;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<b><span style="color:white">Observação</span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr style="height:14.5pt">
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">LA0279966A</span><o:p></o:p></p>
+</td>
+<td width="93" nowrap="" valign="bottom" style="width:70.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">LA0279966</span><o:p></o:p></p>
+</td>
+<td width="69" nowrap="" valign="bottom" style="width:52.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">61788</span><o:p></o:p></p>
+</td>
+<td width="76" nowrap="" valign="bottom" style="width:57.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">22167.76</span><o:p></o:p></p>
+</td>
+<td width="81" nowrap="" valign="bottom" style="width:61.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">OCEAN NETWORK EXPRESS PTE LTD</span><o:p></o:p></p>
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">TCLU8451992 TCNU4003024 TCNU4272790 TRHU4776136</span><o:p></o:p></p>
+</td>
+<td width="97" nowrap="" valign="bottom" style="width:73.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+</tr>
+<tr style="height:14.5pt">
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">LA0279967A</span><o:p></o:p></p>
+</td>
+<td width="93" nowrap="" valign="bottom" style="width:70.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">LA0279967</span><o:p></o:p></p>
+</td>
+<td width="69" nowrap="" valign="bottom" style="width:52.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">61789</span><o:p></o:p></p>
+</td>
+<td width="76" nowrap="" valign="bottom" style="width:57.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">18610.76</span><o:p></o:p></p>
+</td>
+<td width="81" nowrap="" valign="bottom" style="width:61.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">OCEAN NETWORK EXPRESS PTE LTD</span><o:p></o:p></p>
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">NYKU3569284 NYKU3891747 NYKU9793516 TCKU3438326</span><o:p></o:p></p>
+</td>
+<td width="97" nowrap="" valign="bottom" style="width:73.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+</tr>
+<tr style="height:14.5pt">
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">LA0279970B</span><o:p></o:p></p>
+</td>
+<td width="93" nowrap="" valign="bottom" style="width:70.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">LA0279970</span><o:p></o:p></p>
+</td>
+<td width="69" nowrap="" valign="bottom" style="width:52.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">61790</span><o:p></o:p></p>
+</td>
+<td width="76" nowrap="" valign="bottom" style="width:57.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">5541.94</span><o:p></o:p></p>
+</td>
+<td width="81" nowrap="" valign="bottom" style="width:61.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">OCEAN NETWORK EXPRESS PTE LTD</span><o:p></o:p></p>
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center">
+<span style="color:black">KKFU1860290</span><o:p></o:p></p>
+</td>
+<td width="97" nowrap="" valign="bottom" style="width:73.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+<td width="72" nowrap="" valign="bottom" style="width:54.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+<td width="103" nowrap="" valign="bottom" style="width:77.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:14.5pt">
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><span style="color:white"><br>
+</span><br>
+AVISO LEGAL &quot;As informações existentes nesta mensagem e nos arquivos anexados são para uso restrito. A utilização, divulgação, cópia ou distribuição dessa mensagem por qualquer pessoa diferente do destinatário é proibida. Se essa mensagem foi recebida por engano,
+ favor excluí-la e informar ao remetente pelo endereço eletrônico acima.&quot; <o:p></o:p></p>
+<p>DISCLAIMER &quot;This email and its attachments may contain privileged and/or confidential information. Use, disclosure, copying or distribution of this message by anyone other than the intended recipient is strictly prohibited. If you have received this email
+ in error, please notify the sender by reply email and destroy all copies of this message.&quot;
+<o:p></o:p></p>
+</div>
+</blockquote>
+</div>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><br>
+This e-mail and any materials contained in or accompanying it may be confidential, subject to legal privilege, or otherwise protected from disclosure, and is intended solely for the intended recipient(s). If you have received this communication in error, please
+ notify the sender immediately, delete all electronic or hard copies in your possession and do not disclose, copy, disseminate, distribute or use any information herein. Neither Ocean Network Express Pte. Ltd. nor any of its related corporations or affiliates
+ make any warranties in relation to this e-mail or any materials contained in or accompanying it. We reserve the right to monitor all email communications through our networks.<o:p></o:p></p>
+<div>
+<p class="MsoNormal"><span style="font-size:14.5pt;font-family:&quot;Arial&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">Our Privacy Notice has changed. Please visit&nbsp;</span></b><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#222222"><a href="https://www.one-line.com/standard-page/privacy-policy" target="_blank">https://www.one-line.com/standard-page/privacy-policy</a>&nbsp;to
+ view the updated notice.</span></b><o:p></o:p></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="font-size:14.5pt;font-family:&quot;Arial&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+</div>
+</div>
+</div>
+</body>
+</html>
